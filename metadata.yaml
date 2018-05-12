@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6413
     wikipedia: http://fi.wikipedia.org/wiki/Fredrika_Runeberg
 description: 'Translation of: Fru Catharina Boije och hennes döttrar'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18624#Rouva-Katariina-Boije-ja-h-nen-tytt-rens-Kertomus-ison-vihan-ajoilta
 gutenberg_issued: '2006-06-19'
 gutenberg_type: Text
 identifiers:
