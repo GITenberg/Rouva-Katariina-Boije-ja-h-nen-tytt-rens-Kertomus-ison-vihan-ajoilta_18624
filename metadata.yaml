@@ -1,0 +1,45 @@
+_repo: Rouva-Katariina-Boije-ja-h-nen-tytt-rens-Kertomus-ison-vihan-ajoilta_18624
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lempiranta, Arvo
+    aliases:
+    - L:nd, Arvo
+    - Liljestrand, Arvo
+    - Arvo L:nd
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '8156'
+    url: http://www.gutenberg.org/2009/agents/8156
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runeberg, Fredrika Charlotta Tengström
+    aliases:
+    - Tengström, Fredrika Charlotta
+    - –a –g
+    - Runeberg, Fredrika Charlotta Tengstrom
+    - Runeberg, Frederika
+    birthdate: 1807
+    deathdate: 1879
+    gutenberg_agent_id: '6413'
+    url: http://www.gutenberg.org/2009/agents/6413
+    wikipedia: http://fi.wikipedia.org/wiki/Fredrika_Runeberg
+description: 'Translation of: Fru Catharina Boije och hennes döttrar'
+gutenberg_issued: '2006-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18624'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: 'Rouva Katariina Boije ja hänen tyttärensä
+
+  Kertomus ison vihan ajoilta'
+url: http://www.gutenberg.org/ebooks/18624
